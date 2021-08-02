@@ -60,3 +60,44 @@ git push -u origin master
 ll
 git push
 git help config
+touch addition.py substraction.py
+ll
+vi python addition.py
+vi python substraction.py 
+python substraction.py 
+python addition.py 
+vi substraction.py 
+python substraction.py 
+vi substraction.py 
+python substraction.py 
+git --version
+git init
+git clone git@github.com:rajasekharperavali/project-g.git
+git clone 
+git clone git@github.com:popurisrinu/devops.git
+python
+touch addition.py substraction.py
+ll
+sudo -
+cd .ssh
+ll
+cat id_rsa.pub
+cd .ssh
+cd ..
+git clone git@github.com:popurisrinu/python.git
+git clone git@github.com:popurisrinu/devops.git
+git clone 
+git clone git@github.com:popurisrinu/devops.git
+git add .
+git status
+git commit -m "pytgon files added"
+git push origin devops
+git remote add origin git@github.com:popurisrinu/newpython.git
+git branch
+git push -u origin master 
+git help config
+git push
+python
+toch raja.py rani.py
+touch raja rani
+cmd
